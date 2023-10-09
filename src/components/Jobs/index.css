@@ -1,0 +1,16 @@
+.heading {
+  font-size: 20px;
+}
+
+.job {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
+
+.btn {
+  align-self: flex-end;
+}
